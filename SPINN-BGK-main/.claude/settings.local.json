@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(cd:*)",
+      "Bash(python smooth_3d.py:*)",
+      "Bash(python3:*)",
+      "Bash(conda info:*)",
+      "Bash(source /home/seongjaelim/venvs/jaxgpu/bin/activate)"
+    ]
+  }
+}

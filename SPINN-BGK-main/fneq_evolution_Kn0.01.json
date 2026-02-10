@@ -1,0 +1,7 @@
+{
+  "created_by": "plot_fneq_evolution.py",
+  "figure_file": "fneq_evolution_Kn0.01.png",
+  "data_files": [
+    "data/x3v3/smooth/spinn_Kn0.01_rank256_ngrid12_gpu4_20260107_010026_params.npy"
+  ]
+}
