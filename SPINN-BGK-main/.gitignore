@@ -1,5 +1,9 @@
 *.sh
 
+# Output directories (symlinked to external storage)
+data
+figures
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
